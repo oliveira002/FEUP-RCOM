@@ -1,5 +1,7 @@
-~ both projects for rcom course
+# RC 22/23
 
-grade project 1 - 19.0
+## Course Grades
 
-grade project 2 - 17.0
+| | Project 1 | Project 2 |
+| --- | --- | --- |
+| Grade | **19.00** | **19.70**| 
